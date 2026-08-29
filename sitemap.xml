@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://emmycrypt001.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://emmycrypt001.github.io/portfolio-2026.html</loc>
-  </url>
+  <url><loc>https://emmycrypt001.github.io/</loc></url>
+  <url><loc>https://emmycrypt001.github.io/portfolio-2026.html</loc></url>
+  <url><loc>https://emmycrypt001.github.io/research/</loc></url>
+  <url><loc>https://emmycrypt001.github.io/research/001-ethereum-l2.html</loc></url>
+  <url><loc>https://emmycrypt001.github.io/research/002-aave.html</loc></url>
+  <url><loc>https://emmycrypt001.github.io/research/003-follow-the-money.html</loc></url>
+  <url><loc>https://emmycrypt001.github.io/research/004-uniswap-v4.html</loc></url>
+  <url><loc>https://emmycrypt001.github.io/research/005-follow-the-capital.html</loc></url>
 </urlset>
